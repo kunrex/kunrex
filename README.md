@@ -3,7 +3,7 @@
 
 <img align="right" src="Images/heart2.JPG" width="300" title="hover text">  
 
-I'm 16 and like to program. Sometimes I make cool things but most of the time its just me smashing my keyboard
+I'm a random kid who tries to program but ends up smashing his keybard 90% of the time
 
 • You can check out my discord bot <a href="https://github.com/kunrex/Pepper.bot">here </a>
 
