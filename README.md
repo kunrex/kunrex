@@ -20,7 +20,7 @@ I'm a random highschooler who found printing 'hello world' to the console pretty
 -  <a href="https://github.com/kunrex/Pepper.bot" target="_blank">My discord bot.</a>
 -  <a href="https://kunrex.itch.io/" target="_blank">A few video games I've worked on.</a>
 -  <a href="https://github.com/kunrex/Sugar.lang" target="_blank">A programming languaged I'm working on.</a>
--  <a href="https://github.com/kunrex/Scribie.app" target="_blank">An app I'm working on.</a>
+-  <a href="https://github.com/kunrex/Scribie.app" target="_blank">An app I made.</a>
 
 ### :hammer_and_wrench: Languages, Tools and Softwares:
 <div>
