@@ -10,11 +10,9 @@
 
 ### About Me:
 
-I'm a random highschooler who found printing 'hello world' to the console pretty cool.
+I'm a random college guy (studying at IIT Roorkee, India) who found printing 'hello world' to the console pretty cool.  
 
-- 🧑‍💻 I've been programming for about 3 to 4 years now (yep I'm relatively new).
-- ♾️ I'm looking forward to pursue computer science as my career but take interest in physics and mathematics as well.
-- 🎨 Sometimes I draw.
+Thanks for checking out my profile and have a good day 😃
 
 ### My Projects (the cool ones imo):
 -  <a href="https://github.com/kunrex/Scribie.app" target="_blank">An app I made.</a>
