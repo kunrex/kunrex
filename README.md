@@ -8,22 +8,26 @@
   </div>
 </h1>
 
-### About Me:
+### About Me 
+Heyyo, My name's Kunal and I found printing 'Hello World' to the console, pretty cool!
+I'm currently in college (IIT Roorkee, India)
 
-I'm a random college guy (studying at IIT Roorkee, India) who found printing 'hello world' to the console pretty cool.  
+Thanks for checking out my profile and have a good day!
 
-Thanks for checking out my profile and have a good day 😃
+---
 
-### My Projects (the cool ones imo):
--  <a href="https://github.com/kunrex/Scribie.app" target="_blank">An app I made.</a>
--  <a href="https://github.com/kunrex/Pepper.bot" target="_blank">My discord bot.</a>
--  <a href="https://kunrex.itch.io/" target="_blank">A few video games I've worked on.</a>
--  <a href="https://github.com/kunrex/ard.blaster" target="_blank">A nerf gun I modded</a>
--  <a href="https://github.com/kunrex/Sugar.lang" target="_blank">A programming language I'm working on.</a>
--  <a href="https://github.com/kunrex/Codewars" target="_blank">My codewars katas (the cool ones).</a>
--  <a href="https://github.com/kunrex/Codeforces" target="_blank">My codeforces solutions (the cool ones).</a>
+### My Projects  🌱
 
-### :hammer_and_wrench: Languages, Tools and Softwares:
+-  📱 <a href="https://github.com/kunrex/Scribie.app" target="_blank">An app I made.</a>
+-  🤖 <a href="https://github.com/kunrex/Pepper.bot" target="_blank">My discord bot.</a>
+-  ⚙️ <a href="https://github.com/kunrex/ard.blaster" target="_blank">A nerf gun I modded</a>
+-  🎮 <a href="https://kunrex.itch.io/" target="_blank">A few video games I've worked on.</a>
+-  💻 <a href="https://github.com/kunrex/Sugar.lang" target="_blank">A programming language I'm working on.</a>
+
+---
+
+### Languages  :interrobang:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -31,6 +35,16 @@ Thanks for checking out my profile and have a good day 😃
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="tS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="FlJSutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunrex&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
+
+### Technologies  :hammer_and_wrench:
+
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
@@ -46,11 +60,23 @@ Thanks for checking out my profile and have a good day 😃
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" **alt="XCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="XCode" **alt="XCode" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunrex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunrex&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Competitive Programming :computer:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunrex&theme=dark)](https://git.io/streak-stats)
+<img src="https://www.codewars.com/users/kunrex/badges/large">
+
+-  <a href="https://github.com/kunrex/Codewars" target="_blank">My codewars katas (the cool ones).</a>
+-  <a href="https://github.com/kunrex/Codeforces" target="_blank">My codeforces solutions (the cool ones).</a>
+
+---
+
+###  My Stats  :fire:
+
+<div align="center">
+  <img style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=kunrex&theme=dark">
+  <img style="margin-right: 2%;" src="http://github-readme-streak-stats.herokuapp.com?user=kunrex&theme=dark">
+</div>
