@@ -20,6 +20,7 @@ Thanks for checking out my profile and have a good day!
 
 -  📱 <a href="https://github.com/kunrex/Scribie.app" target="_blank">An app I made.</a>
 -  🤖 <a href="https://github.com/kunrex/Pepper.bot" target="_blank">My discord bot.</a>
+-  🚀 <a href="https://github.com/kunrex/neural.net" target="_blank">My neural network</a>
 -  ⚙️ <a href="https://github.com/kunrex/ard.blaster" target="_blank">A nerf gun I modded</a>
 -  🎮 <a href="https://kunrex.itch.io/" target="_blank">A few video games I've worked on.</a>
 -  💻 <a href="https://github.com/kunrex/Sugar.lang" target="_blank">A programming language I'm working on.</a>
