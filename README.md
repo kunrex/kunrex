@@ -25,7 +25,8 @@ Thanks for checking out my profile and have a good day!
 -  ⚡ <a href="https://github.com/kunrex/llm.net" target="_blank">My transformer (the ML one)</a>
 -  🎮 <a href="https://kunrex.itch.io/" target="_blank">A few video games I've worked on.</a>
 -  💻 <a href="https://github.com/kunrex/Sugar.lang" target="_blank">A programming language I'm working on.</a>
-
+- <a href="https://github.com/IshaanXCoder/SyntaxError-Team-Strato">Stratopeter (Syntax Error 2024) </a>
+- <a href="https://github.com/IshaanXCoder/MDG-Project">MDG Hackathon</a>
 
 ---
 
