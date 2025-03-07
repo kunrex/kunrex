@@ -44,15 +44,6 @@ Thanks for checking out my profile and have a good day!
 
 ---
 
-### Competitive Programming :computer:
-
- <img src="https://www.codewars.com/users/kunrex/badges/large">
-
--  <a href="https://github.com/kunrex/Codewars" target="_blank">My codewars katas (the cool ones).</a> 
--  <a href="https://github.com/kunrex/Codeforces" target="_blank">My codeforces solutions (the cool ones).</a>
-
----
-
 ###  My Stats  :fire:
 
 <div align="center">
