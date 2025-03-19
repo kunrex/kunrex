@@ -9,26 +9,9 @@
 </h1>
 
 ### About Me 
-Heyyo, My name's Kunal and I found printing 'Hello World' to the console, pretty cool!
-I'm currently in college (IIT Roorkee, India)
+Heyyo, my name's Kunal and I like to code! I'm a college undergrad at IIT Roorkee, India. Thanks for checking out my profile I hope you found some of it cool :D Have a good day!
 
-Thanks for checking out my profile and have a good day!
-
----
-
-### My Projects  🌱
-
--  📱 <a href="https://github.com/kunrex/Scribie.app" target="_blank">An app I made.</a>
--  🤖 <a href="https://github.com/kunrex/Pepper.bot" target="_blank">My discord bot.</a>
--  🚀 <a href="https://github.com/kunrex/neural.net" target="_blank">My neural network</a>
--  ⚙️ <a href="https://github.com/kunrex/ard.blaster" target="_blank">A nerf gun I modded</a>
--  ⚡ <a href="https://github.com/kunrex/llm.net" target="_blank">My transformer (the ML one)</a>
--  🎮 <a href="https://kunrex.itch.io/" target="_blank">A few video games I've worked on.</a>
--  💻 <a href="https://github.com/kunrex/Sugar.lang" target="_blank">A programming language I'm working on.</a>
-- <a href="https://github.com/IshaanXCoder/SyntaxError-Team-Strato">Stratopeter (Syntax Error 2024) </a>
-- <a href="https://github.com/IshaanXCoder/MDG-Project">MDG Hackathon</a>
-
----
+--- 
 
 ### Languages :interrobang:
 
@@ -48,5 +31,4 @@ Thanks for checking out my profile and have a good day!
 
 <div align="center">
   <img style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=kunrex&theme=dark">
-  <img style="margin-right: 2%;" src="http://github-readme-streak-stats.herokuapp.com?user=kunrex&theme=dark">
 </div>
